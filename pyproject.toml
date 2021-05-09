@@ -10,6 +10,7 @@ data_model_formation = "data_model_formation.cli:main"
 [tool.poetry.dependencies]
 python = "^3.8"
 click = "^7.1.2"
+PyYAML = "^5.4.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
